@@ -9,7 +9,7 @@ This project uses **LangGraph** for conversational flow, **Chroma** for vector s
 ![Ayurvedic AI Demo](assets/demo.gif)
 
 > *The demo above shows the bot answering a query about water consumption and providing a safety disclaimer.*
-
+> *The assets folder contains the two Screenshots of the Bot, for reference* 
 ---
 
 ## ✨ Features
@@ -63,7 +63,7 @@ AyurvedicAI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yadavadarsh55/VagbhataAI.git
+git clone https://github.com/Avinashreddy-07/Ayurvedic-ai.git
 cd AYURVEDICAI
 ```
 
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory with the following keys:
 
 ```ini
-GOOGLE_API_KEY=your_google_api_key
+API_KEY=your_api_key
 ```
 
 ### 4. Initialize the Knowledge Base
