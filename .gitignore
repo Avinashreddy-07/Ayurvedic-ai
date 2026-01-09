@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+
+# Vector DB (Chroma)
+chroma_db/
+
+# IDE
+.vscode/
